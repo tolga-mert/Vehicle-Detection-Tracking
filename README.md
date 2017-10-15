@@ -110,9 +110,6 @@ Final step is to join 2 pipelines: Lane Line Detection And Vehicle Detection:
 ![alt text][image5]
 ---
 
-### Video Implementation
-
-Here's a [link to my video result on YouTube](https://www.youtube.com/watch?v=nrLscZvDLdo)
 
 ---
 
